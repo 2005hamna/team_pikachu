@@ -1,4 +1,4 @@
-#TEAM PIKACHU 
+# TEAM PIKACHU 
 
 
 Our website is designed to provide a safe and welcoming space for kids where they can express themselves freely while enjoying fun activities. In today’s world, it’s important for children to have a platform where they can connect, share their thoughts, and engage in creative ways that make them feel heard and understood. We’ve built our site to be a place where young users can explore their interests, play games, and take part in activities that foster their growth and happiness. It’s all about creating an environment where children feel comfortable and empowered, without fear of judgment or negativity.
