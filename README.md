@@ -1,3 +1,6 @@
+#TEAM PIKACHU 
+
+
 Our website is designed to provide a safe and welcoming space for kids where they can express themselves freely while enjoying fun activities. In today’s world, it’s important for children to have a platform where they can connect, share their thoughts, and engage in creative ways that make them feel heard and understood. We’ve built our site to be a place where young users can explore their interests, play games, and take part in activities that foster their growth and happiness. It’s all about creating an environment where children feel comfortable and empowered, without fear of judgment or negativity.
 
 A significant focus of our website is addressing the issue of bullying, which many children unfortunately face in different environments. Bullying can have a lasting emotional impact on kids, making it crucial for them to know that they are not alone and that support is available. We’ve dedicated efforts to incorporate resources, stories, and games that specifically target this issue. Our stories are designed to provide comfort, inspiration, and hope for children going through difficult experiences, while our games encourage positive interaction and resilience. The website offers a safe outlet for kids to talk about their experiences and find coping strategies that can help them deal with bullying.
@@ -20,9 +23,13 @@ handles the game screen loading not loading, directs to functions that are supos
 appleDuplicator.js:
 using prefabs creates apples infinitely until the pikachus lives run out.
 
+appleCollider.js:
+uses boxcollider 2D and detects whether it hits the pikachus collider at all or doesnt hit the pikachu and only hits the barrier instead, then responds accordingly as the apple fell without the pikachu catching it.
+
 # download the link for the website
 
 https://drive.google.com/drive/folders/1-42melzo6Vsm02QIDE6VwBZPTzeLjMvg?usp=drive_link
 
-appleCollider.js:
-uses boxcollider 2D and detects whether it hits the pikachus collider at all or doesnt hit the pikachu and only hits the barrier instead, then responds accordingly as the apple fell without the pikachu catching it.
+Team Members Names: Aishah Hussain, Viktoriia Kharchenko, Daniya Mohtisham, Hamna Irfan
+
+
