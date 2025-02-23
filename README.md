@@ -20,5 +20,9 @@ handles the game screen loading not loading, directs to functions that are supos
 appleDuplicator.js:
 using prefabs creates apples infinitely until the pikachus lives run out.
 
+# download the link for the website
+
+https://drive.google.com/drive/folders/1-42melzo6Vsm02QIDE6VwBZPTzeLjMvg?usp=drive_link
+
 appleCollider.js:
 uses boxcollider 2D and detects whether it hits the pikachus collider at all or doesnt hit the pikachu and only hits the barrier instead, then responds accordingly as the apple fell without the pikachu catching it.
